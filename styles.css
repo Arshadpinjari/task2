@@ -1,0 +1,40 @@
+body {
+  background-color: darkorange;
+  font-family: Arial, sans-serif;
+}
+
+.head {
+  color: darkblue;
+}
+
+#bglime {
+  background-color: lightgreen;
+}
+
+#bglime .head {
+  color: red;
+}
+
+
+h2 span:nth-child(3) {
+  color: red;
+}
+
+h4 {
+  color: blue;
+}
+
+p {
+  color: white;
+  margin-bottom: 10px;
+  
+}
+#para {
+  font-size: 20px;
+  color: green;
+}
+ol {
+  start= "1"
+  list-style: inside;
+  max-width: 400px;
+}
